@@ -39,7 +39,6 @@ body {
   max-width: 588px;
   margin: 30px auto 0px;
   padding: 0 24px;
-  max-height: 100vh;
   display: flex;
   flex-direction: column;
 }

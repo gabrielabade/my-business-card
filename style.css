@@ -61,7 +61,6 @@ body {
   position: relative;
   width: 64px;
   margin: 1rem auto;
-  margin-bottom: 3rem;
 }
 
 #switch button {
@@ -161,7 +160,7 @@ ion-icon {
 }
 
 footer {
-  padding: 2rem 7%;
+  padding: 14px;
   text-align: center;
   font-size: 14px;
 }

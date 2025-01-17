@@ -40,11 +40,13 @@ body {
   margin: 56px auto 0px;
   padding: 0 24px;
   max-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 #profile {
   text-align: center;
-  padding: 24px;
+  padding: 1rem;
 }
 
 #profile img {

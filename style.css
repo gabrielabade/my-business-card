@@ -32,6 +32,8 @@ body {
   background-size: cover;
   color: var(--text-color);
   height: 100vh;
+  min-height: 100vh;
+  overflow: hidden;
 }
 
 #container {
@@ -42,6 +44,7 @@ body {
   max-height: 100vh;
   display: flex;
   flex-direction: column;
+  overflow-y: auto;
 }
 
 #profile {

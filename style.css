@@ -32,7 +32,6 @@ body {
   background-size: cover;
   color: var(--text-color);
   height: 100vh;
-  min-height: 100vh;
 }
 
 #container {
